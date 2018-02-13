@@ -26,9 +26,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function addElementToEndOfArray(array, element) {
-  array.splice(array.length,0,element)
-  //return array.push(element)
-  return array
+  
 }
 
 function addElementToBeginningOfArray(array, element) {
