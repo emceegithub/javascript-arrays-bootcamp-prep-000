@@ -41,7 +41,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array
 }
 
-
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 
 
